@@ -18,7 +18,7 @@ https://user-images.githubusercontent.com/13397624/133176373-8deeb024-4db5-44eb-
 
 -----------------
 
-Second up is the exact same extraction, transformation and cleaning but performed with python and SQL. The python code downloads the file from the URL, uses pandas to transform it to an sqlite database, then runs the SQL code on the database. The SQL code uses a variety of functions, SELECT, INSERT, ROLLBACK, ALTER TABLE and finishes with a big, heavily UPDATE on a SELECT on a JOIN. Below is a video of that running:
+Second up is the exact same extraction, transformation and cleaning but performed with python and SQL. The python code downloads the file from the URL, uses pandas to transform it to an sqlite database, then runs the SQL code on the database. The SQL code uses a variety of functions, SELECT, INSERT, ROLLBACK, ALTER TABLE and finishes with a heavily nested query made of an UPDATE on a SELECT on a JOIN. Below is a video of that running:
 
 
 
