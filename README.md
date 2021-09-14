@@ -11,9 +11,6 @@ A basic demonstration of the technical skills required for the job I applied to 
 
 I've got two different methods here to grab the data and perform some basic transformations/cleaning on it. First up is Excel VBA, upon opening the file will automatically begin the process of reaching out to the relevant URL to download our data, import it into the workbook and then, because the People table is wrong and lacking information, it remakes it from scratch with several new columns, formulas with INDEX(MATCH()), VLOOKUP, COUNTIF, SUMIF, AVERAGEIF are used as demonstrations. Below is a video of it running:
 
-https://user-images.githubusercontent.com/13397624/133174377-76a7fa6e-b684-4666-8de4-3710e17dd73d.mp4
-
-
 
 
 -----------------
@@ -22,7 +19,6 @@ Second up is the exact same extraction, transformation and cleaning but performe
 
 
 
-https://user-images.githubusercontent.com/13397624/133174396-9cd0c44a-a7e6-480b-b0b5-3748a3401aee.mp4
 
 
 
@@ -34,4 +30,5 @@ And last but not least a little bit of analysis in Tableau. I've loaded the data
 
 
 
-https://user-images.githubusercontent.com/13397624/133174426-53f67a7e-473e-42fb-b152-e7591ee49791.mp4
+
+https://user-images.githubusercontent.com/13397624/133175038-42752520-d1aa-4a43-b1c3-e701d58f3615.mp4
