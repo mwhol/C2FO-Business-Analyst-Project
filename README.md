@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/13397624/134106099-d2632499-725a-4156-
 
 -----------------------
 
-And when speaking to Rachel she wanted to know about cluster models so I figured what the heck and coded up a simple kmeans model at the same time. Unfortunately the data I've been using for this project so far isn't really suited to kmeans very well (very little continuous data, it's almost all categorical) so after seeing how bad the clusters turned out, I created another python file which runs the code on the iris, sample dataset and that ends up showing the clusters much more clearly.
+And when speaking to Rachel she wanted to know about cluster models so I figured what the heck and coded up a simple kmeans model at the same time. Unfortunately the data I've been using for this project so far isn't really suited to kmeans very well (very little continuous data, it's almost all categorical) so after seeing how bad the clusters turned out, I created another python file which runs the code on the iris sample dataset and that ends up showing the clusters much more clearly.
 
 https://user-images.githubusercontent.com/13397624/134106242-fa71d82c-4049-44e0-84cd-26c6c9b7b367.mov
 
