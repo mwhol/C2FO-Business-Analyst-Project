@@ -5,6 +5,7 @@ This was created for a job interview as a demonstration of the basic skills requ
 ~~A basic demonstration of the technical skills required for the job I applied to with C2FO. I whipped this up real quick as proof that I have the requisite data visualization and ETL skills. I know the code needs commenting, I may go back and do that.~~
 
 ========
+
 As of 9/13
 
 I've got two different methods here to grab the data and perform some basic transformations/cleaning on it. First up is Excel VBA, upon opening the file will automatically begin the process of reaching out to the relevant URL to download our data, import it into the workbook and then, because the People table is wrong and lacking information, it remakes it from scratch with several new columns, formulas with INDEX(MATCH()), VLOOKUP, COUNTIF, SUMIF, AVERAGEIF are used as demonstrations. Below is a video of it running:
@@ -36,6 +37,7 @@ https://user-images.githubusercontent.com/13397624/134106099-d2632499-725a-4156-
 
 
 =================
+
 As of 9/20
 
 
@@ -45,4 +47,5 @@ https://user-images.githubusercontent.com/13397624/134106242-fa71d82c-4049-44e0-
 
 
 =========================
+
 As of 9/29
