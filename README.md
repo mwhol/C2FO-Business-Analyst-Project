@@ -12,7 +12,7 @@ I've got two different methods here to grab the data and perform some basic tran
 
 https://user-images.githubusercontent.com/13397624/133176373-8deeb024-4db5-44eb-ab7b-49d3e06fcfb3.mov
 
-[And here's the location](https://github.com/mwhol/C2FO-Business-Analyst-Project/tree/main/ETL/VBA)
+[And here's the location](https://github.com/mwhol/Data-Analyst-Project/tree/main/ETL/VBA)
 
 
 -----------------
@@ -22,7 +22,7 @@ Second up is the exact same extraction, transformation and cleaning but performe
 
 https://user-images.githubusercontent.com/13397624/133176353-e00cf881-cd3a-470e-bbb2-024270152193.mov
 
-[And here's the location](https://github.com/mwhol/C2FO-Business-Analyst-Project/tree/main/ETL/Python)
+[And here's the location](https://github.com/mwhol/Data-Analyst-Project/tree/main/ETL/Python_SQL)
 
 ---------------------
 
@@ -54,6 +54,4 @@ I have used a #RealWorldFakeData dataset made about employee characteristics int
 
 ------------------------
 
-I also had a position which required a pretty simple ETL process. Basically, take a 2gb csv file on calls to the San Francisco Fire Department and figure out the 90th percentile response time per month per Battalion for the most recent 12 months. This one was already nicely packaged for my submission and I should note there was a two hour time limit which I did obey, so I know there could probably be some fixes to it but overall, pretty decent code I think.
-
-
+I also had a sort of coding test which required a pretty simple ETL process. Basically, take a 2gb csv file on calls to the San Francisco Fire Department and figure out the 90th percentile response time per month per Battalion for the most recent 12 months. This one was already nicely packaged for my submission and I should note there was a two hour time limit which I did obey, so I know there could probably be some fixes to it but overall, pretty decent code I think. It's heavily commented so it's probably better to read it straight than to show a video of it running, you can find it [here](https://github.com/mwhol/Data-Analyst-Project/blob/main/ETL/Python_Pandas/main.py)
