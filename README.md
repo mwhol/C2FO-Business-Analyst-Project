@@ -49,3 +49,11 @@ https://user-images.githubusercontent.com/13397624/134106242-fa71d82c-4049-44e0-
 ----------------
 
 ## As of 9/29
+
+I have used a #RealWorldFakeData dataset made about employee characteristics into a simple Tableau Dashboard. The Dashboard itself is relatively simple and the data was also a bit disappointing, as you click around you'll notice the data was generated pretty evenly in terms of characteristics so the company seems to have achieved almost supernaturally uniform diversity. Regardless, the point was to figure out Tableau Public, so you yourself can click around in the dashboard [here.](https://public.tableau.com/app/profile/michael.wholey/viz/Main_16329184010700/HRDashboard) Give it a shot!
+
+------------------------
+
+I also had a position which required a pretty simple ETL process. Basically, take a 2gb csv file on calls to the San Francisco Fire Department and figure out the 90th percentile response time per month per Battalion for the most recent 12 months. This one was already nicely packaged for my submission and I should note there was a two hour time limit which I did obey, so I know there could probably be some fixes to it but overall, pretty decent code I think.
+
+
