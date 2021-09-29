@@ -4,9 +4,9 @@ This was created for a job interview as a demonstration of the basic skills requ
 
 ~~A basic demonstration of the technical skills required for the job I applied to with C2FO. I whipped this up real quick as proof that I have the requisite data visualization and ETL skills. I know the code needs commenting, I may go back and do that.~~
 
-========
+--------------------
 
-As of 9/13
+## As of 9/13
 
 I've got two different methods here to grab the data and perform some basic transformations/cleaning on it. First up is Excel VBA, upon opening the file will automatically begin the process of reaching out to the relevant URL to download our data, import it into the workbook and then, because the People table is wrong and lacking information, it remakes it from scratch with several new columns, formulas with INDEX(MATCH()), VLOOKUP, COUNTIF, SUMIF, AVERAGEIF are used as demonstrations. Below is a video of it running:
 
@@ -36,9 +36,9 @@ Edit: I've also created a bar race chart for the profit by sub-category over tim
 https://user-images.githubusercontent.com/13397624/134106099-d2632499-725a-4156-b011-9b85d254ba83.mov
 
 
-=================
+---------------
 
-As of 9/20
+## As of 9/20
 
 
 And when speaking to Rachel she wanted to know about cluster models so I figured what the heck and coded up a simple kmeans model at the same time. Unfortunately the data I've been using for this project so far isn't really suited to kmeans very well (very little continuous data, it's almost all categorical) so after seeing how bad the clusters turned out, I created another python file which runs the code on the iris sample dataset and that ends up showing the clusters much more clearly.
@@ -46,6 +46,6 @@ And when speaking to Rachel she wanted to know about cluster models so I figured
 https://user-images.githubusercontent.com/13397624/134106242-fa71d82c-4049-44e0-84cd-26c6c9b7b367.mov
 
 
-=========================
+----------------
 
-As of 9/29
+## As of 9/29
