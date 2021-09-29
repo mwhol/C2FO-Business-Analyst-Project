@@ -35,13 +35,14 @@ Edit: I've also created a bar race chart for the profit by sub-category over tim
 
 https://user-images.githubusercontent.com/13397624/134106099-d2632499-725a-4156-b011-9b85d254ba83.mov
 
+You can find the charts for download [here.](https://github.com/mwhol/Data-Analyst-Project/tree/main/Analysis/Superstore%20Tableau%20Charts)
 
 ---------------
 
 ## As of 9/20
 
 
-And when speaking to Rachel she wanted to know about cluster models so I figured what the heck and coded up a simple kmeans model in python using the package scikit-learn. Unfortunately the data I've been using for this project so far isn't really suited to kmeans very well (very little continuous data, it's almost all categorical) so after seeing how bad the clusters turned out, I created another python file which runs the same code on the iris sample dataset and that ends up showing the clusters much more clearly. You can find the code and graphs [here.](https://github.com/mwhol/Data-Analyst-Project/tree/main/Analysis/Superstore%20Tableau%20Charts)
+And when speaking to Rachel she wanted to know about cluster models so I figured what the heck and coded up a simple kmeans model in python using the package scikit-learn. Unfortunately the data I've been using for this project so far isn't really suited to kmeans very well (very little continuous data, it's almost all categorical) so after seeing how bad the clusters turned out, I created another python file which runs the same code on the iris sample dataset and that ends up showing the clusters much more clearly. You can find the code and graphs [here.](https://github.com/mwhol/Data-Analyst-Project/tree/main/Analysis/Clustering)
 
 https://user-images.githubusercontent.com/13397624/134106242-fa71d82c-4049-44e0-84cd-26c6c9b7b367.mov
 
